@@ -23,7 +23,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include "FastLED.h"
 #include <EEPROMex.h>
 
-#define NUM_LEDS 30
+#define NUM_LEDS 300
 CRGB leds[NUM_LEDS];
 #define PIN 4
 
